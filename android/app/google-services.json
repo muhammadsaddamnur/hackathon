@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059087992890",
+    "firebase_url": "https://hackathon-faeb5.firebaseio.com",
+    "project_id": "hackathon-faeb5",
+    "storage_bucket": "hackathon-faeb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059087992890:android:98f6d1d2e25ed28e50cd03",
+        "android_client_info": {
+          "package_name": "com.uemkaem.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059087992890-u8nleo5aav1m7on7p8ddd7gjp2vrcvrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oIDBkzg5MW9Ol905TWS8UwKjF2GwsKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059087992890-u8nleo5aav1m7on7p8ddd7gjp2vrcvrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
